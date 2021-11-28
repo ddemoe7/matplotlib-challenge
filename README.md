@@ -1,4 +1,4 @@
-# Matplotlib-Plots
+# Matplotlib Plots
 Matplotlib Exercise - The Power of Plots
 <br>
 <i>(matplotlib-challenge)</i>
